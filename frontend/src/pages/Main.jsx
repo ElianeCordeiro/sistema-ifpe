@@ -124,7 +124,7 @@ export default function Main() {
           phone: editPhone,
           email: editEmail,
           course: editCourse,
-          address: address,
+          address: editAddress,
         }),
         headers: {
           'Content-type': 'application/json; charset=UTF-8',
